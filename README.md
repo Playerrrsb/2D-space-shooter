@@ -1,7 +1,7 @@
 # 2D-space-shooter
 This is space shooter game fully developed in Unity game engine. This is my first game project hope you like it.
 
-Select all the files and extract them open "space shooter 3D" to play.
+Select all 3 files and extract them open "space shooter 3D" to play.
 
 
 Controls :
